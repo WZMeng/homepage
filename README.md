@@ -1,3 +1,9 @@
+<link rel="icon" href="https://www.cloud-conf.net/AIblockchain2025/SPT-logon.jpg">
+                       
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
+<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none">Weizhi Meng's Homepage</span>
+</h3>
+
 <table>
 <tbody>
 <tr> 
