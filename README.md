@@ -1,4 +1,4 @@
-<link rel="icon" type="image/png" href="https://www.eduhk.hk/cms/assets/shared/img/logo-stand-alone.png" />             
+<head><link rel="icon" type="image/png" href="https://www.eduhk.hk/cms/assets/shared/img/logo-stand-alone.png" /></head>             
 
 <table>
 <tbody>
