@@ -1,4 +1,4 @@
-<link rel="icon" href="https://adiot.compute.dtu.dk/2024/SPT-logon.jpg">
+<link rel="icon" href="https://github.com/WZMeng/Homepage/blob/main/SPT-logon.jpg">
                       
 
 <table>
