@@ -1,0 +1,898 @@
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
+<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none">journal-review</span>
+
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr">I am the reviewers for the following journals:
+
+<br />
+<br />
+<b>ACM/IEEE Journals: <b></b><br />
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.signalprocessingsociety.org/publications/periodicals/forensics/">IEEE Transactions on Information Forensics and Security (TIFS)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.computer.org/web/tdsc">IEEE Transactions on Dependable and Secure Computing (TDSC)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.computer.org/portal/web/tpds">IEEE Transactions on Parallel and Distributed Systems (TPDS)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26">IEEE Transactions on Communications (TCOM)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html">IEEE Transactions on Consumer Electronics</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.computer.org/web/tmc">IEEE Transactions on Mobile Computing (TMC)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687316">IEEE Transactions on Transportation Electrification (TTE)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49">IEEE Journal on Selected Areas in Communications (J-SAC)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.computer.org/web/tsc">IEEE Transactions on Services Computing (TSC)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673">IEEE Transactions on Games</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.comsoc.org/publications/journals/ieee-tmlcn">IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieee-ceda.org/publications/tcad">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">IEEE Transactions on Multimedia (TSC)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754">IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4156126">IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.computer.org/csdl/journal/bd">IEEE Transactions on Big Data (TBD)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.comsoc.org/publications/journals/ieee-tccn">IEEE Transactions on Cognitive Communications and Networking (TCCN)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.ieeesmc.org/publications/transactions-on-cybernetics">IEEE Transactions on Cybernetics</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.comsoc.org/publications/journals/ieee-twc">IEEE Transactions on Wireless Communications</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021">IEEE Transactions on Systems, Man and Cybernetics: Systems</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.computer.org/web/tcc">IEEE Transactions on Cloud Computing (TCC)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32">IEEE Transactions on Software Engineering (TSE)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.comsoc.org/publications/journals/ieee-tgcn">IEEE Transactions on Green Communications and Networking (TGCN)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24">IEEE Transactions on Reliability</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.comsoc.org/tnsm">IEEE Transactions on Network and Service Management (TNSM)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems">IEEE Transactions on Neural Networks and Learning Systems 
+(TNNLS)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence">IEEE Transactions on Artificial Intelligence (TAI)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856">IEEE Transactions on Automation Science and Engineering</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8920">IEEE Transactions on Circuits and Systems II: Express Briefs</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424">IEEE Transactions on Industrial Informatics (TII)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7">IEEE Transactions on Aerospace and Electronic Systems</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-cyberphysical-systems">IEEE Transactions on Industrial Cyber-Physical Systems</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.ieeesmc.org/publications/transactions-on-human-machine-systems">IEEE Transactions on Human-Machine Systems
+ (THMS)</a>, IEEE. </li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.ieeesmc.org/publications/transactions-on-human-machine-systems">IEEE Transactions on Knowledge Discovery from Data (TKDD)</a>, IEEE. </li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17">IEEE Transactions on Engineering Management</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411">IEEE Transactions on Smart Grid</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE Transactions on Computational Social Systems</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.comsoc.org/publications/journals/ieee-tnse">IEEE Transactions on Network Science and Engineering</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">IEEE Transactions on Medical Imaging</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860">IEEE Transactions on Sustainable Computing (TSUSC)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979">IEEE Transactions on Intelligent Transportation Systems (TITS)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857">IEEE Transactions on Intelligent Vehicles (TIV)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.computer.org/web/tetc">IEEE Transactions on Emerging Topics in Computing (TETC)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297">IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ton.lids.mit.edu/">IEEE/ACM Transactions on Networking (ToN)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5">Proceedings of the IEEE</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://m-cacm.acm.org/">Communications of the ACM (CACM)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://tcps.acm.org/">ACM Transactions on Cyber-Physical Systems (TCPS)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dl.acm.org/journal/tecs">ACM Transactions on Embedded Computing Systems (TECS)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dl.acm.org/journal/tiot">ACM Transactions on Internet of Things (TIOT)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dl.acm.org/journal/tosem">ACM Transactions on Software Engineering and Methodology (TIOT)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dl.acm.org/journal/tops">ACM Transactions on Privacy and Security (TOPS)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dl.acm.org/journal/taco">ACM Transactions on Architecture and Code Optimization (TACO)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dl.acm.org/journal/todaes">ACM Transactions on Design Automation of Electronic Systems (TODAES)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dl.acm.org/journal/tomm">ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dl.acm.org/journal/tocs">ACM Transactions on Computer Systems (TOCS)</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://toit.acm.org/">ACM Transactions on Internet Technology (TOIT)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dl.acm.org/journal/tosn">ACM Transactions on Sensor Networks (TOSN)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dl.acm.org/journal/tocs">ACM Transactions on Computer Systems (TOCS)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://tmis.acm.org/">ACM Transactions on Management Information Systems (TMIS)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dl.acm.org/journal/tallip">ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dl.acm.org/journal/csur">ACM Computing Surveys (CSUR)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://cacm.acm.org/">Communications of the ACM</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dl.acm.org/journal/jetc">ACM Journal on Emerging Technologies in Computing Systems</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dl.acm.org/journal/health">ACM Transactions on Computing for Healthcare</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dl.acm.org/journal/jats">ACM Journal on Autonomous Transportation Systems</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://dtrap.acm.org/">ACM Digital Threats: Research and Practice (DTRAP)</a>, ACM.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690">Journal of Selected Topics in Signal Processing</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://ieee-iotj.org/">IEEE Internet of Things Journal</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.comsoc.org/netmag">IEEE Network</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8685265">Journal of Modern Power Systems and Clean Energy</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35g">IEEE Communications Magazine</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8847244">IEEE Journal of Emerging and Selected Topics in Industrial Electronics</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.computer.org/csdl/journal/ca">IEEE Computer Architecture Letters</a>, IEEE.
+</li>
+
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=62">IEEE Aerospace and Electronic Systems Magazine</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380">IEEE Consumer Electronics Magazine</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">IEEE Signal Processing Letters</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234">IEEE Communications Letters</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=93">IEEE MultiMedia</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221038">IEEE Design & Test</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7756">IEEE Pervasive Computing</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8013">IEEE Security &amp; Privacy</a>, IEEE.
+</li>
+
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361">IEEE Sensors Journal</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.comsoc.org/publications/journals/ieee-lnet">IEEE Networking Letters</a>, IEEE.
+</li>
+
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9670">IEEE Intelligent Systems</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207"> IEEE Computational Intelligence Magazine (CIM)</a>, IEEE.
+</li>
+
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine">IEEE Communications Standards Magazine</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.comsoc.org/publications/magazines/ieee-wireless-communications">IEEE Wireless Communications Magazine</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.ieee-ies.org/pubs/industrial-electronics-magazine">IEEE Industrial Electronics Magazine</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5117645">IEEE Intelligent Transportation Systems Magazine</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2">IEEE Computer</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003">IEEE Systems Journal</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8784355">IEEE Open Journal of Intelligent Transportation Systems</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782706">IEEE Open Journal of the Industrial Electronics Society</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503868">IEEE Journal on Emerging and Selected Topics in Circuits and Systems</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4664312">IEEE Reviews in Biomedical Engineering</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433271">IEEE Journal of Radio Frequency Identification</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://ieeeaccess.ieee.org/" rel="nofollow">IEEE Access</a>, IEEE.
+</li>
+
+<br />
+<b>Springer Journals: <b></b><br />
+
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://link.springer.com/journal/10207">International Journal of Information Security</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.springer.com/engineering/computational+intelligence+and+complexity/journal/500">Soft Computing</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.springer.com/journal/10586">Cluster Computing</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.springer.com/journal/11235">Telecommunication Systems</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.springer.com/journal/40820">Nano-Micro Letters</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.springer.com/journal/11432">SCIENCE CHINA Information Sciences</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://link.springer.com/journal/10796">Information Systems Frontiers</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://link.springer.com/journal/11227">The Journal of Supercomputing</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.springer.com/engineering/computational+intelligence+and+complexity/journal/12652">Journal of Ambient Intelligence and Humanized Computing</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.springer.com/journal/11276">Wireless Networks</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.springer.com/journal/12599">Business & Information Systems Engineering</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.springer.com/journal/11704">Frontiers of Computer Science</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.springer.com/computer/ai/journal/521">Neural Computing and Applications</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://hcis-journal.springeropen.com/">Human-centric Computing and Information Sciences</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.springer.com/journal/11390">Journal of Computer Science and Technology</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.springer.com/journal/12083">Peer-to-Peer Networking and Applications</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.springer.com/journal/11633">International Journal of Automation and Computing</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.journaloftrustmanagement.com/" rel="nofollow">Journal of Trust Management</a>, SpringerOpen.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://jwcn-eurasipjournals.springeropen.com/">EURASIP Journal on Wireless Communications and Networking</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.springer.com/engineering/journal/42452" rel="nofollow">SN Applied Sciences</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.springer.com/journal/40747" rel="nofollow">Complex &amp; Intelligent Systems</a>, Springer.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.springer.com/journal/11804" rel="nofollow">Journal of Marine Science and Application</a>, Springer.
+</li>
+
+<br />
+<b>Elsevier Journals:<b></b> <br />
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/information-fusion">Information Fusion</a>, Elsevier. (<b>2018 Outstanding Reviewer Award</b>)
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.journals.elsevier.com/journal-of-network-and-computer-applications/">Journal of Network and Computer Applications </a>, Elsevier. (<b>2015 and 2017 Outstanding Reviewer Award</b>)
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/reliability-engineering-and-system-safety">Reliability Engineering & System Safety</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/knowledge-based-systems">Knowledge-Based Systems</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine">Artificial Intelligence In Medicine</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.sciencedirect.com/journal/journal-of-industrial-information-integration">Journal of Industrial Information Integration</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.sciencedirect.com/journal/theoretical-computer-science">Theoretical Computer Science</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/big-data-research">Big Data Research</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/journal-of-computational-science">Journal of Computational Science</a>, Elsevier. (<b>2018 Outstanding Reviewer Award</b>)
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.journals.elsevier.com/computers-and-security/">Computers &amp; Security</a>, Elsevier. (<b>2015, 2017 and 2018 Outstanding Reviewer Award</b>)
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.journals.elsevier.com/computer-networks/">Computer Networks</a>, Elsevier. (<b>2017 Outstanding Reviewer Award</b>)
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/computer-communications">Computer Communications</a>, Elsevier.
+</li>
+
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/physical-communication">Physical Communication</a>, Elsevier.
+</li>
+
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/microprocessors-and-microsystems">Microprocessors and Microsystems</a>, Elsevier.
+</li>
+
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.journals.elsevier.com/journal-of-computer-and-system-sciences">Journal of Computer and System Sciences (JCSS)</a>, Elsevier. (<b>2016 Outstanding Reviewer Award</b>)
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/journal-of-systems-architecture">Journal of Systems Architecture</a>, Elsevier.
+</li>
+
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/reliability-engineering-and-system-safety">Reliability Engineering &amp; System Safety</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/pervasive-and-mobile-computing">Pervasive and Mobile Computing (PMC)</a>, Elsevier. (<b>2018 Outstanding Reviewer Award</b>)
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="www.journals.elsevier.com/future-generation-computer-systems/">Future Generation Computer Systems (FGCS)</a>, Elsevier.
+ (<b>2018 Outstanding Reviewer Award</b>) </li>
+
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.journals.elsevier.com/information-sciences">Information Sciences</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/ad-hoc-networks">Ad Hoc Networks</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/neural-networks">Neural Networks</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.journals.elsevier.com/international-journal-of-human-computer-studies/">International Journal of Human-Computer Studies</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/computer-standards-and-interfaces">Computer Standards &amp; Interfaces</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/technological-forecasting-and-social-change">Technological Forecasting &amp; Social Change</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http:/www.journals.elsevier.com/pattern-recognition">Pattern Recognition</a>, Elsevier.
+</li>
+
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/simulation-modelling-practice-and-theory">Simulation Modelling Practice and Theory</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/swarm-and-evolutionary-computation">Swarm and Evolutionary Computation</a>, Elsevier.
+</li>
+
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.journals.elsevier.com/expert-systems-with-applications/">Expert Systems With Applications</a>, Elsevier. (<b>2017 Outstanding Reviewer Award</b>)
+</li>
+ 
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.journals.elsevier.com/journal-of-information-security-and-applications/">Journal of Information Security and Applications</a>, Elsevier. (<b>2015, 2017 and 2018 Outstanding Reviewer Award</b>)
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.journals.elsevier.com/neurocomputing">Neurocomputing</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/applied-computing-and-informatics" rel="nofollow">Applied Computing and Informatics</a>, Elsevier.
+</li>
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/internet-of-things" rel="nofollow">Internet of Things</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/alexandria-engineering-journal" rel="nofollow">Alexandria Engineering Journal</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/measurement" rel="nofollow">Measurement</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/journal-of-cleaner-production" rel="nofollow">Journal of Cleaner Production</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/displays" rel="nofollow">Displays</a>, Elsevier.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/international-journal-of-information-management" rel="nofollow">International Journal of Information Management</a>, Elsevier.
+</li>
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/journal-of-retailing-and-consumer-services" rel="nofollow">Journal of Retailing and Consumer Services</a>, Elsevier.
+</li>
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.journals.elsevier.com/information-processing-and-management" rel="nofollow">Information Processing and Management</a>, Elsevier.
+</li>
+
+
+<br />
+Wiley/Hindawi Journals: <br />
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0122">Security and Communication Networks</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ietresearch.onlinelibrary.wiley.com/journal/20755597">Chinese Journal of Electronics</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ietresearch.onlinelibrary.wiley.com/journal/26341581">Energy Conversion and Economics</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://onlinelibrary.wiley.com/journal/1098111x">International Journal of Intelligent Systems</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://onlinelibrary.wiley.com/journal/10990542">Computer Applications in Engineering Education</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://onlinelibrary.wiley.com/journal/15420981">International Journal of Satellite Communications and Networking</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://onlinelibrary.wiley.com/journal/14682451">International Social Science Journal</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://onlinelibrary.wiley.com/journal/1099114x">International Journal of Energy Research</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://onlinelibrary.wiley.com/journal/10991689">Journal of Software: Testing, Verification and Reliability</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1532-0634">Concurrency and Computation: Practice and Experience</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://onlinelibrary.wiley.com/journal/24756725">Security and Privacy</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://onlinelibrary.wiley.com/journal/20477481">Journal of Software: Evolution and Process</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ietresearch.onlinelibrary.wiley.com/journal/20513305">The Journal of Engineering (JoE)</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://onlinelibrary.wiley.com/journal/10991131#pane-01cbe741-499a-4611-874e-1061f1f4679e01" rel="nofollow">International Journal of Communication Systems</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://onlinelibrary.wiley.com/journal/21613915" rel="nofollow">Transactions on Emerging Telecommunications Technologies</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://onlinelibrary.wiley.com/journal/10982825">Journal of Clinical Laboratory Analysis</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ifst.onlinelibrary.wiley.com/journal/17454549">Journal of Food Processing and Preservation</a>, Wiley.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.hindawi.com/journals/js/" rel="nofollow">Journal of Sensors</a>, Hindawi.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.hindawi.com/journals/wcmc/">Wireless Communications and Mobile Computing</a>, Hindawi.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.hindawi.com/journals/misy/" rel="nofollow">Mobile Information Systems</a>, Hindawi.
+</li>
+
+
+
+<br />
+<b>More journals: <b></b><br />
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.jstage.jst.go.jp/browse/transinf">IEICE Transactions on Information and Systems</a>, IEICE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://ietresearch.onlinelibrary.wiley.com/journal/1350911X">IET Electronics Letters</a>, IET.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://digital-library.theiet.org/content/journals/iet-ifs">IET Information Security</a>, IET.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://digital-library.theiet.org/content/journals/iet-qtc">IET Quantum Communication</a>, IET.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://digital-library.theiet.org/content/journals/iet-bmt">IET Biometrics</a>, IET.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://digital-library.theiet.org/content/journals/iet-wss">IET Wireless Sensor Systems</a>, IET.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.cic-chinacommunications.cn/EN/volumn/home.shtml">China Communications</a>, IEEE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.iospress.nl/journal/journal-of-computer-security/">Journal of Computer Security</a>, IOS.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://journals.plos.org/plosone/">PLOS ONE</a>, PLOS.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://academic.oup.com/jcde">Journal of Computational Design and Engineering</a>, Oxford University Press.
+</li>
+
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.tandfonline.com/toc/tcie20/current">Journal of the Chinese Institute of Engineers</a>, Taylor &amp; Francis.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.tandfonline.com/journals/ggen20">International Journal of General Systems</a>, Taylor &amp; Francis.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.tandfonline.com/toc/gnte20/current">Nondestructive Testing and Evaluation</a>, Taylor &amp; Francis.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.tandfonline.com/toc/taut20/current">Automatika (Journal for Control, Measurement, Electronics, Computing and Communications)</a>, Taylor &amp; Francis.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.tandfonline.com/journals/inet20">Network: Computation in Neural Systems</a>, Taylor &amp; Francis.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.tandfonline.com/toc/ueso20/current">Energy Sources, Part A: Recovery, Utilization, and Environmental Effects</a>, Taylor &amp; Francis.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.tandfonline.com/toc/rpas20/current">Policy and Society</a>, Taylor &amp; Francis.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.tandfonline.com/toc/uiss20/current">Information Security Journal: A Global Perspective</a>, Taylor &amp; Francis.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.tandfonline.com/toc/tcfm20/current">Engineering Applications of Computational Fluid Mechanics</a>, Taylor &amp; Francis.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.igi-global.com/journal/international-journal-information-security-privacy/1096">International Journal of Information Security and Privacy (IJISP)</a>, IGI Global.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://ijns.femto.com.tw/" rel="nofollow">International Journal of Network Security</a>, IJNS.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://jit.ndhu.edu.tw/" rel="nofollow">Journal of Internet Technology</a>, JIT.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.mdpi.com/journal/sensors" rel="nofollow">Sensors</a>, MDPI.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.mdpi.com/journal/symmetry" rel="nofollow">Symmetry</a>, MDPI.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.mdpi.com/journal/information" rel="nofollow">Information</a>, MDPI.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.mdpi.com/journal/computers" rel="nofollow">Computers</a>, MDPI.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="http://www.tandfonline.com/toc/tsec20/current" rel="nofollow">Journal of Cyber Security Technology</a>, Taylor &amp; Francis.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.tandfonline.com/toc/ucbs20/current" rel="nofollow">Cybernetics and Systems</a>, Taylor &amp; Francis.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.tandfonline.com/journals/rger20">Global Economics Review</a>, Taylor &amp; Francis.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://oaepublish.com/index.php/jsss" rel="nofollow">Journal of Surveillance, Security and Safety (JSSS)</a>, OAE.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://www.inderscience.com/jhome.php?jcode=ijipsi" rel="nofollow">International Journal of Information Privacy, Security and Integrity (IJIPSI)</a>, Inderscience.
+</li>
+
+<li style="font-family:Arial;margin-bottom:3pt">
+<a href="https://home.liebertpub.com/publications/omics-a-journal-of-integrative-biology/43" rel="nofollow">OMICS: A Journal of Integrative Biology</a>, Mary Ann Liebert.
+</li>
+
+</b></li></b></b></b></div></td></tr></tbody></table>
+</div> 
+</div></h3>
+
+
+</html>
+                                                                     
+                                                                  
