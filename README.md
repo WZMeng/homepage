@@ -1,5 +1,17 @@
-<link rel="icon" href="https://github.com/WZMeng/Homepage/blob/main/SPT-logon.jpg">
-                      
+ <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+    <meta name = "format-detection" content = "telephone=no">
+    <title>Weizhi Meng's Homepage</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
+    <link rel="icon" href="SPT-logon.jpg">
+    <script src="js/jquery.min.js"></script>
+    <style>
+</style>
+  </head>                   
 
 <table>
 <tbody>
